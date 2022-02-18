@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <p align="center">I'm Ashique Hussain Ansari, Fullstack developer from India.</p>
 
 - 🔭 I’m currently working at **GlobalLogic In Inida**
-- 🌱 I’m currently learning **AWS, Secure Coding, Fastify, and SpringBoot Microservices**
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Angular, NodeJS, ExpressJS, MongoDB, Unit Testing, and RestAPI**
+- 🌱 I’m currently learning **Blockchain, Solidity, Etherjs, Web3, Cryptocurrency, Hardhat, Web3Model**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, NodeJS, ExpressJS, Fastify, MongoDB, Unit Testing, AWS, and RestAPI**
 - 📫 How to reach me: [ashique9694@gmail.com](mailto:ashique9694@gmail.com) via email
 - ⚡ Fun fact: Big Fan of JS technologies
 
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-254add?style=flat-square&logo=css3&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-d5052f?style=flat-square&logo=angular&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-515151?style=flat-square&logo=express&logoColor=white" />
