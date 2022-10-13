@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Welcome to my profile!</h1>
-<p align="center">I'm Ashique Hussain Ansari, Fullstack developer from India.</p>
+<p align="center">I'm Ashique Hussain Ansari, Front-End (React) developer from India.</p>
 
-- 🔭 I’m currently working at **GlobalLogic In Inida**
+- 🔭 I’m currently working at **iCIMS In Inida**
 - 🌱 I’m currently learning **Blockchain, Solidity, Etherjs, Web3, Cryptocurrency, Hardhat, Web3Model**
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React, NextJs, NodeJS, ExpressJS, Fastify, MongoDB, GraphQL, Appolo Client, Unit Testing, AWS, and RestAPI**
 - 📫 How to reach me: [ashique9694@gmail.com](mailto:ashique9694@gmail.com) via email
