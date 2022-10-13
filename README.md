@@ -40,10 +40,3 @@ Here are some ideas to get you started:
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-515151?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/anurag8867/anurag8867">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashique-hussain&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-<a href="https://github.com/anurag8867/anurag8867">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashique-hussain&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anurag's GitHub Stats" />
-</a>
